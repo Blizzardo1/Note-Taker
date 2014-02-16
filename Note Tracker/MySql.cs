@@ -21,7 +21,7 @@ using MySql.Data.MySqlClient;
 namespace BreakerDev.DataBase
 {
     /// <summary>
-    /// COPIED CODE FROM A PREVIOUS PROJECT!
+    /// COPIED CODE FROM AN OLD MINECRAFT DB PROJECT!
     /// </summary>
     public class BDevDataBase
     {
@@ -160,8 +160,8 @@ namespace BreakerDev.DataBase
             Processor
             RAM
             MaxRAM
-
              */
+             
             string query = string.Format("INSERT INTO {0}.OpenTickets (FirstName, LastName, Address, Email, PrimaryPhone, AlternatePhone, Issues) VALUES (@FirstName,@LastName,@Address,@Email, @PrimaryPhone, @AlternatePhone,@Issue);", DATABASE);
             if (this.LoginToDB())
             {
