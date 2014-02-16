@@ -1,0 +1,12 @@
+G:\BreakerDev Suite 2012\Note Tracker\Note Tracker\bin\Debug\Note Tracker.exe
+G:\BreakerDev Suite 2012\Note Tracker\Note Tracker\bin\Debug\Note Tracker.pdb
+G:\BreakerDev Suite 2012\Note Tracker\Note Tracker\obj\Debug\Note Tracker.csprojResolveAssemblyReference.cache
+G:\BreakerDev Suite 2012\Note Tracker\Note Tracker\obj\Debug\Note_Tracker.Master.resources
+G:\BreakerDev Suite 2012\Note Tracker\Note Tracker\obj\Debug\Note_Tracker.Properties.Resources.resources
+G:\BreakerDev Suite 2012\Note Tracker\Note Tracker\obj\Debug\Note_Tracker.TicketNew.resources
+G:\BreakerDev Suite 2012\Note Tracker\Note Tracker\obj\Debug\Note Tracker.csproj.GenerateResource.Cache
+G:\BreakerDev Suite 2012\Note Tracker\Note Tracker\obj\Debug\Note Tracker.exe
+G:\BreakerDev Suite 2012\Note Tracker\Note Tracker\obj\Debug\Note Tracker.pdb
+G:\BreakerDev Suite 2012\Note Tracker\Note Tracker\bin\Debug\BreakerDev.dll
+G:\BreakerDev Suite 2012\Note Tracker\Note Tracker\bin\Debug\BreakerDev.pdb
+G:\BreakerDev Suite 2012\Note Tracker\Note Tracker\bin\Debug\BreakerDev.xml
